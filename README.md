@@ -3,7 +3,7 @@
 [⏳ Vegova](https://vegova.si)
 
 
-- ⚡️ Im currently learning - Backend (Node.js, Express.js, MongoDB...)
+- ⚡️ I'm currently learning - Backend (Node.js, Express.js, MongoDB...)
 - 📧 How to reach me: - [contact](mailto:info@aljaz-radovan.si)
 - 💯 Fun fact: - 🏋️‍♂️
 
