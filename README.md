@@ -1,5 +1,5 @@
-<h1 align="center">Aljaž Radovan</h1>
-<h2 align="center">A passionate fullstack developer from Slovenia</h2>
+<p style:"font-size:20px" align="center">Aljaž Radovan</p>
+<p style:"font-size:15px" align="center">A passionate fullstack developer from Slovenia</p>
 
 🌱 I’m currently learning **Backend**
 
