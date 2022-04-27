@@ -9,7 +9,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h2 align="left">Programming Languages:</h2>
-<p>- C++ <br> JavaScript </p>
+<ul>
+    <li>C++</li>
+    <li>JavaScript</li>
+</ul>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aljazekslo&show_icons=true&theme=radical&locale=en" alt="aljazekslo" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljazekslo&show_icons=true&theme=radical&locale=en&layout=compact" alt="aljazekslo" /></p>
