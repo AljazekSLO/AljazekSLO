@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Backend**
 
-👨‍💻 All of my projects are available at [https://aljaz-radovan.si](https://aljaz-radovan.si)
+👨‍💻 All of my projects are available at **[https://aljaz-radovan.si](https://aljaz-radovan.si)**
 
 📫 How to reach me **info@aljaz-radovan.si**
 
