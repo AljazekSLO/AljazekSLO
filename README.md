@@ -1,4 +1,4 @@
-<h1align="center">I'm Aljaž Radovan</h1>
+<h1 align="center">I'm Aljaž Radovan</h1>
 <h3 style:"font-size:15px" align="center">A passionate fullstack developer from Slovenia</h3>
 
 🌱 I’m currently learning **Backend**
