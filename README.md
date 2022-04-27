@@ -27,18 +27,6 @@
     <li>MySQL</li>
     <li>MariaDB</li>
 </ul>
-<h4 align="left">Software:</h4>
-<ul>
-    <li>Photoshop</li>
-    <li>Blender</li>
-    <li>Figma</li>
-</ul>
-<h4 align="left">Other:</h4>
-<ul>
-    <li>Linux</li>
-    <li>Git</li>
-    <li>Arduino</li>
-</ul>
 <h3 align="left">Stats:</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aljazekslo&show_icons=true&theme=radical&locale=en" alt="aljazekslo" /></p>
 
