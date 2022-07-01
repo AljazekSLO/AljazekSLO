@@ -11,13 +11,15 @@
 <h4 align="left">Programming Languages:</h4>
 <ul>
     <li>C++</li>
-    <li>JavaScript</li>
+    <li>JavaScript / TypeScript</li>
 </ul>
 <h4 align="left">Frontend Development:</h4>
 <ul>
-    <li>Bootstrap</li>
-    <li>CSS</li>
+    <li>React</li>
     <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+    <li>Tailwind</li>
 </ul>
 <h4 align="left">Backend Development:</h4>
 <ul>
